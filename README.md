@@ -15,7 +15,7 @@
 
 
 
-### 2 [学校要求的医学邮件](./action_required_uc_mandated_tb_screening_immunization_and_health_insurance_requirements.md )
+## 2 [学校要求的医学邮件](./action_required_uc_mandated_tb_screening_immunization_and_health_insurance_requirements.md )
 
 notes:
 
