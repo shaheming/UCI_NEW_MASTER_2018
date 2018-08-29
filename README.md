@@ -23,3 +23,5 @@ notes:
   2.  health insurance wavie ddl (The waiver period for Fall quarter opens on 6-25-2018 and closes on 9-7-2018. **New, incoming students are not able to waive until your registration fees are assessed. Fee assessment typically occurs in mid-to-late July.**)
 
 ## 3 [用中行手机银行自助交学费](./fee/uci_pay_fee.md )
+
+使用手机银行自助电汇方便快捷，并且有手续费优惠: 大概约 ￥180。并且 1-2 个工作日就可以在 https://zotaccount 查到结果。
