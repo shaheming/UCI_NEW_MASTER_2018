@@ -22,4 +22,4 @@ notes:
   1.  Comply With Your Tuberculosis and Immunization Requirements  **ddl 2018-10-26**
   2.  health insurance wavie ddl (The waiver period for Fall quarter opens on 6-25-2018 and closes on 9-7-2018. **New, incoming students are not able to waive until your registration fees are assessed. Fee assessment typically occurs in mid-to-late July.**)
 
-## 3 [用中行手机银行自助交学费](./fee/用中行手机银行自助交 UCI 学费.md )
+## 3 [用中行手机银行自助交学费](./fee/用中行手机银行自助交\ UCI\ 学费.md )
