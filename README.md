@@ -32,4 +32,3 @@ notes:
 
 - [食品购买指南](./buy_food_instruction.md)
 - [家具购买](./buy_furnish_instruction.md)
-
