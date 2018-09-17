@@ -31,4 +31,7 @@ notes:
 ### 4 Irvine 生存指南
 
 - [食品购买指南](./buy_food_instruction.md)
+
 - [家具购买](./buy_furnish_instruction.md)
+
+- [考取驾照](./drive_licence.md)
