@@ -35,3 +35,7 @@ notes:
 - [家具购买](./buy_furnish_instruction.md)
 
 - [考取驾照](./drive_licence.md)
+
+### 5 学校生活
+
+- [UCI 校园网接入指南](./uci_network_handbook.md)
