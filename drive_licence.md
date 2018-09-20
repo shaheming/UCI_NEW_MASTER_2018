@@ -18,7 +18,7 @@
 
 - 在DMV官网填[写个人信息](https://www.dmv.ca.gov/portal/dmv/detail/forms/dl/dl44) 并且记录下最后数字码 。在填写的过程中可能会有不太明白的几个步骤，下面的图进行填写。
 
-  ![选择ID&DL](http://ocs14bvbg.bkt.clouddn.com/18-9-17/5899153.jpg)
+  ![选择ID&DL](http://ocs14bvbg.bkt.clouddn.com/18-9-20/95681239.jpg)
 
 
 
@@ -26,11 +26,17 @@
 
 
 
-![是否是救火队员 NO](http://ocs14bvbg.bkt.clouddn.com/18-9-17/74907333.jpg)
+![是否是救火队员 NO](http://ocs14bvbg.bkt.clouddn.com/18-9-20/18836586.jpg)
 
 ![是否减免费用 No](http://ocs14bvbg.bkt.clouddn.com/18-9-17/72046901.jpg)
 
-![身高体重](http://ocs14bvbg.bkt.clouddn.com/18-9-17/22798832.jpg)
+![身高体重](http://ocs14bvbg.bkt.clouddn.com/18-9-20/46003395.jpg)
+
+
+
+
+
+![](http://ocs14bvbg.bkt.clouddn.com/18-9-20/51747197.jpg)
 
 ![最后将这个码保存下来](http://ocs14bvbg.bkt.clouddn.com/18-9-17/21885084.jpg)
 

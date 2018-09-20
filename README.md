@@ -38,3 +38,4 @@
 ### 5 学校生活
 
 - [UCI 校园网接入指南](./uci_network_handbook.md)
+- [出行省钱大发使用 Lyft or Uber 的优惠码获得 $5 的打车券](./ride.md)
