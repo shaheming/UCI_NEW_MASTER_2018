@@ -7,10 +7,11 @@
 ### 1.1 准备**纸质**材料
 
 - 护照
-- I20
-- I94
+- I20  (I20 原件或者复印件均可)
+- I94 
 - 租房合同
-- 银行卡户证明
+- 银行卡户证明(可选)
+- $35 刀的报名费(cash or debit card)
 
 ### 1.2 交规学习与模拟考试
 
@@ -44,10 +45,16 @@
 
 - [模拟笔试]( https://pass-dmv-test.com/?from=singlemessage&isappinstalled=0) 
 
--  最近的考点 [Costa Mesa DMV](  https://goo.gl/maps/YGhnHaoqM7t
-  )  Mon-Sat, 8AM-5PM (可以直接去，不用预约)
+- 最近的考点 [Costa Mesa DMV](  https://goo.gl/maps/YGhnHaoqM7t
+  )  Mon-Sat, 8AM-5PM  (可以直接去，不用预约,越早去越好，可以7:30 左右到那边。打 uber 过去约 $16)
 
-- 真正考试时
+- 在排队时他会发一张绿色的纸给你，让你填写。在填写信息时可以给工作人员说，你已经在网上填写了这些信并且有了码，他们会吧这张大众上的一个标志划掉。
+
+  ![](http://ocs14bvbg.bkt.clouddn.com/18-9-30/9031236.jpg)
+
+- 整个步骤流程约莫 2-3 个小时。
+
+- 可以参考 [加州驾照考试的流程和注意事项](https://zaq.us/ca-driving-license/) 教程。
 
 
 ## 2 路考
